@@ -1,4 +1,4 @@
-# Professora Sandra
+# Profa Sandra
 
 Ginastica é saúde 
 
