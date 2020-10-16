@@ -14,6 +14,6 @@ em você.
     <title>Professora Sandra</title>
 </head>
 <body>
-    <h1>Ginástica é Saúde!/h1>
+    Ginástica é Saúde!
 </body>
 </html>
