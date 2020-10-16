@@ -14,6 +14,6 @@ em você.
     <title>Com a professora Sandra </title>
 </head>
 <body>
-    <h1>Ginástica é Saúde! /h1>
+    <h1>Ginástica é Saúde!/h1>
 </body>
 </html>
