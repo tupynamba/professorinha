@@ -11,7 +11,7 @@ em você.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Professora com a Sandra>/title>
+    <title>Com a professora Sandra </title>
 </head>
 <body>
     <h1>Ginástica é Saúde! /h1>
