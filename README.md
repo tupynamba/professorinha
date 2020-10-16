@@ -11,9 +11,9 @@ em você.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Meu primeiro site no GitHub Pages</title>
+    <title>Professora com a Sandra>/title>
 </head>
 <body>
-    <h1>Eu sou um jovem aprendiz</h1>
+    <h1>Ginástica é Saúde! /h1>
 </body>
 </html>
